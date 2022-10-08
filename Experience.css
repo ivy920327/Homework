@@ -1,0 +1,55 @@
+
+
+body{
+  background-color: #F3F3FA;
+}
+
+
+
+.nav {
+  text-align: right;
+
+}
+
+
+.nav ul {
+  list-style-type: none;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding: 0px;
+  overflow: hidden;
+}
+
+
+
+.nav li {
+  
+  display: inline-block;
+  /* border-right: 1px solid black; */
+  margin-bottom: 0px;
+}
+
+
+
+
+
+.nav li a {
+  display: block;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 20px;
+  text-decoration: none;
+  font-size: 17px;
+  color: black;
+}
+
+
+
+
+.nav li a:hover {
+  color:#8BB1C1;
+
+}
+
+
+
